@@ -7,5 +7,8 @@ module.exports = {
   theme: {
     extend: {},
   },
+  fontFamily:{
+    sans:["Righteous","sans-serif"]
+  },
   plugins: [],
 }
