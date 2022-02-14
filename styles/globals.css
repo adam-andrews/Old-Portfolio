@@ -4,6 +4,6 @@
 
 @layer base {
     body {
-      @apply bg-[#A2DAF8] text-white;
+      @apply text-white;
     }
   }
